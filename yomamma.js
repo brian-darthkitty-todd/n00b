@@ -1,3 +1,5 @@
 "use strict";
 
-console.log(Infinity);
+while (true) {
+    console.log(Infinity);
+}
