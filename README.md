@@ -17,3 +17,7 @@
 
     console.log("Goodbye, World!");
 ```
+
+```bash
+clear
+```
